@@ -20,6 +20,7 @@ Here are some of the projects I have worked on:
 - [Project 2](https://github.com/FrexG/ViT): Vision Transformer Implementation.
 - [Project 3](https://github.com/FrexG/DermDocAII): Mobile app for skin disease detection.
 
+[![FrexG's github stats](https://github-readme-stats.vercel.app/api?username=FrexG)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact Me
 
 You can reach me at [fraolgela@gmail.com](mailto:fraolgela@gmail.com).

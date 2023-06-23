@@ -16,11 +16,9 @@ I am skilled at:
 
 Here are some of the projects I have worked on:
 
-- [Project 1](https://github.com/FrexG/ELU-Net-pytorch): Pytorch implementation of ELU-Net: An Efficient and Lightweight U-Net for Medical Image Segmentation.
-- [Project 2](https://github.com/FrexG/ViT): Vision Transformer Implementation.
-- [Project 3](https://github.com/FrexG/DermDocAII): Mobile app for skin disease detection.
+- Pytorch implementation of [ELU-Net](https://github.com/FrexG/ELU-Net-pytorch): An Efficient and Lightweight U-Net for Medical Image Segmentation.
+- Contributed to the open source project[MedSAM](https://github.com/bowang-lab/MedSAM)) the official repository for MedSAM: Segment Anything in Medical Images.
 
-[![FrexG's github stats](https://github-readme-stats.vercel.app/api?username=FrexG)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact Me
 
 You can reach me at [fraolgela@gmail.com](mailto:fraolgela@gmail.com).

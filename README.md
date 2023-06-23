@@ -17,7 +17,7 @@ I am skilled at:
 Here are some of the projects I have worked on:
 
 - Pytorch implementation of [ELU-Net](https://github.com/FrexG/ELU-Net-pytorch): An Efficient and Lightweight U-Net for Medical Image Segmentation.
-- Contributed to the open source project[MedSAM](https://github.com/bowang-lab/MedSAM)) the official repository for MedSAM: Segment Anything in Medical Images.
+- Contributed to the open source project[MedSAM](https://github.com/bowang-lab/MedSAM) the official repository for MedSAM: Segment Anything in Medical Images.
 
 ## Contact Me
 

@@ -14,21 +14,22 @@ I am skilled at:
 - [X] Java
 ## Projects
 
-Here are some of the projects I have worked on:
+🔭 Here are some of the projects I have worked on:
 
 - Pytorch implementation of [ELU-Net](https://github.com/FrexG/ELU-Net-pytorch): An Efficient and Lightweight U-Net for Medical Image Segmentation.
-- Contributed to the open source project[MedSAM](https://github.com/bowang-lab/MedSAM) the official repository for MedSAM: Segment Anything in Medical Images.
+- Contributed to the open source project [MedSAM](https://github.com/bowang-lab/MedSAM) the official repository for MedSAM: Segment Anything in Medical Images.
 
-## Contact Me
+## 📫 Contact Me
 
 You can reach me at [fraolgela@gmail.com](mailto:fraolgela@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/fraol-gelana-97739654/)
 
 <!--
 **FrexG/FrexG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

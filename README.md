@@ -8,7 +8,8 @@ I am skilled at:
 - [X] Numpy
 - [X] Pandas
 - [X] Matplotlib
-- [X] Django framework, 
+- [X] Django framework,
+- [X] C
 - [X] Bash
 - [X] JavaScript
 - [X] Java

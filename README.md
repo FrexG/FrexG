@@ -2,16 +2,12 @@
 I am a Computer Engineer with special interest in machine learning and AI. Currently working on developing AI systems for <br>
 use in sectors such as Healthcare and agriculture.
 I am skilled at:
-- [X] Python programming language
+- [X] Python
 - [X] PyTorch
-- [X] TensorFlow
 - [X] Numpy
 - [X] Pandas
-- [X] Matplotlib
-- [X] Django framework,
 - [X] C
 - [X] Bash
-- [X] JavaScript
 - [X] Java
 ## 🔭 Projects
  Here are some of the projects I have worked on:
